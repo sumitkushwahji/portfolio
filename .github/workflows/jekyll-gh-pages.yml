@@ -1,4 +1,4 @@
-name: Deploy npm application with GitHub Pages
+name: Deploy React Application with GitHub Pages
 
 on:
   # Runs on pushes targeting the default branch
